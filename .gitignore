@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+vite.stdout.log
+vite.stderr.log
+*.log
+
