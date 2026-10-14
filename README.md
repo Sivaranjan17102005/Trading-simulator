@@ -23,7 +23,10 @@ npm run preview
 - Simulated, updating crypto quotes with chart timeframes, candlestick/line modes, volume, and EMA overlays.
 - Watchlist, market screener, search, sorting, and gainers/losers filters.
 - Paper market and limit orders, position tracking, order cancellation, and trade history.
+- Simulated 0.10% trading fees, fee-aware sizing, buying power, and net realized/unrealized P&L.
 - Price alerts, portfolio analytics, and configurable workspace panels.
 - Account and layout preferences saved in browser local storage.
+- Original Stitch design exports kept in `stitch_tradingview_platform_clone/` for reference.
 
 All quotes and fills are simulated. This project does not connect to an exchange, broker, or real funds.
+
